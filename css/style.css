@@ -266,6 +266,26 @@ footer
 .quick-info li a{
     color: #fff;
 }
+.social-icon li {
+    float: left;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    margin-right: 5px;
+}
+.bglight-blue {
+    background-color: #3498DB;
+}
+.bgred {
+    background-color: #E74C3C;
+}
+.bgdark-blue {
+    background-color: #2C3E50;
+}
+.bglight-blue {
+    background-color: #3498DB;
+}
 @media (min-width: 551px) and (max-width: 980px){
 
 }
